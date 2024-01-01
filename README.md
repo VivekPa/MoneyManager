@@ -1,2 +1,2 @@
 # MoneyManager
-C++ program to track and compile expenses
+A simple C++ project to learn the language.

@@ -1,0 +1,16 @@
+File to plan out class structure of MoneyManager
+
+class Transaction
+- Base class for all types of transactions
+- Contains common methods and attributes 
+
+Attributes
+
+Methods
+
+class Account
+- Contains a variable number of Transaction class objects
+
+Attributes
+
+Methods
